@@ -1,5 +1,4 @@
-# Notas
+# Notes
 
-Este repositorio contiene varios customHooks para ayudarme a mi y a quien le sirva, estos hooks.
-
-También la idea es que yo no quiero volver a escribirlos!
+This repository has some customHooks to help me o anyone who want use it.
+Also I don't wanna write it again
